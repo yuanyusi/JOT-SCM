@@ -1,1 +1,1 @@
-# JOT-SCM
+# OJT-SCM
